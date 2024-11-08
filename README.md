@@ -1,2 +1,2 @@
 # AD-Remote-Sensing
-The use of Sentinel-2, Orthophotos images and NDVI maps in vegetation detection in Paris
+The aim of this work is to compare sentinel-2 and orthophoto images and to see how they can be used to remotely detect vegetation in Paris.
